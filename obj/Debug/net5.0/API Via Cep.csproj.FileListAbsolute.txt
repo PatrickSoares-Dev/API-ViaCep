@@ -1,0 +1,23 @@
+C:\Users\patrick.oliveira\Desktop\Teste\TESTE API\API VIA CEP\API Via Cep\API Via Cep\bin\Debug\net5.0\API Via Cep.exe
+C:\Users\patrick.oliveira\Desktop\Teste\TESTE API\API VIA CEP\API Via Cep\API Via Cep\bin\Debug\net5.0\API Via Cep.deps.json
+C:\Users\patrick.oliveira\Desktop\Teste\TESTE API\API VIA CEP\API Via Cep\API Via Cep\bin\Debug\net5.0\API Via Cep.runtimeconfig.json
+C:\Users\patrick.oliveira\Desktop\Teste\TESTE API\API VIA CEP\API Via Cep\API Via Cep\bin\Debug\net5.0\API Via Cep.runtimeconfig.dev.json
+C:\Users\patrick.oliveira\Desktop\Teste\TESTE API\API VIA CEP\API Via Cep\API Via Cep\bin\Debug\net5.0\API Via Cep.dll
+C:\Users\patrick.oliveira\Desktop\Teste\TESTE API\API VIA CEP\API Via Cep\API Via Cep\bin\Debug\net5.0\API Via Cep.pdb
+C:\Users\patrick.oliveira\Desktop\Teste\TESTE API\API VIA CEP\API Via Cep\API Via Cep\bin\Debug\net5.0\Refit.dll
+C:\Users\patrick.oliveira\Desktop\Teste\TESTE API\API VIA CEP\API Via Cep\API Via Cep\bin\Debug\net5.0\System.Net.Http.Json.dll
+C:\Users\patrick.oliveira\Desktop\Teste\TESTE API\API VIA CEP\API Via Cep\API Via Cep\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\patrick.oliveira\Desktop\Teste\TESTE API\API VIA CEP\API Via Cep\API Via Cep\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+C:\Users\patrick.oliveira\Desktop\Teste\TESTE API\API VIA CEP\API Via Cep\API Via Cep\bin\Debug\net5.0\System.Text.Json.dll
+C:\Users\patrick.oliveira\Desktop\Teste\TESTE API\API VIA CEP\API Via Cep\API Via Cep\obj\Debug\net5.0\API Via Cep.csproj.AssemblyReference.cache
+C:\Users\patrick.oliveira\Desktop\Teste\TESTE API\API VIA CEP\API Via Cep\API Via Cep\obj\Debug\net5.0\API Via Cep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patrick.oliveira\Desktop\Teste\TESTE API\API VIA CEP\API Via Cep\API Via Cep\obj\Debug\net5.0\API Via Cep.AssemblyInfoInputs.cache
+C:\Users\patrick.oliveira\Desktop\Teste\TESTE API\API VIA CEP\API Via Cep\API Via Cep\obj\Debug\net5.0\API Via Cep.AssemblyInfo.cs
+C:\Users\patrick.oliveira\Desktop\Teste\TESTE API\API VIA CEP\API Via Cep\API Via Cep\obj\Debug\net5.0\API Via Cep.csproj.CoreCompileInputs.cache
+C:\Users\patrick.oliveira\Desktop\Teste\TESTE API\API VIA CEP\API Via Cep\API Via Cep\obj\Debug\net5.0\API Via Cep.csproj.CopyComplete
+C:\Users\patrick.oliveira\Desktop\Teste\TESTE API\API VIA CEP\API Via Cep\API Via Cep\obj\Debug\net5.0\API Via Cep.dll
+C:\Users\patrick.oliveira\Desktop\Teste\TESTE API\API VIA CEP\API Via Cep\API Via Cep\obj\Debug\net5.0\refint\API Via Cep.dll
+C:\Users\patrick.oliveira\Desktop\Teste\TESTE API\API VIA CEP\API Via Cep\API Via Cep\obj\Debug\net5.0\API Via Cep.pdb
+C:\Users\patrick.oliveira\Desktop\Teste\TESTE API\API VIA CEP\API Via Cep\API Via Cep\obj\Debug\net5.0\API Via Cep.genruntimeconfig.cache
+C:\Users\patrick.oliveira\Desktop\Teste\TESTE API\API VIA CEP\API Via Cep\API Via Cep\obj\Debug\net5.0\ref\API Via Cep.dll
+C:\Users\patrick.oliveira\Desktop\Teste\TESTE API\API VIA CEP\API Via Cep\API Via Cep\bin\Debug\net5.0\Newtonsoft.Json.dll

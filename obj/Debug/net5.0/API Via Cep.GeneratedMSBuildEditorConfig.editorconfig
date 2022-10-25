@@ -1,0 +1,11 @@
+is_global = true
+build_property.RefitInternalNamespace = API_Via_Cep
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = API_Via_Cep
+build_property.ProjectDir = C:\Users\patrick.oliveira\Desktop\Teste\TESTE API\API VIA CEP\API Via Cep\API Via Cep\
