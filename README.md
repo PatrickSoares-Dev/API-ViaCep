@@ -1,2 +1,3 @@
 # API-ViaCep
-Consumo de API VIA CEP no C# utilizando Refit
+
+> Um código de aprendizagem de consumos de API's, utilizando o pacote nuget Refit, no console, utilizando C#.
